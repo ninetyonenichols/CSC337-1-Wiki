@@ -1,0 +1,12 @@
+/*
+ * Author: Justin Nichols
+ * Class: CSC337 (Web Development)
+ * Purpose: This file will stylize the wiki pages in this project.
+ */
+
+#main-content {
+	margin-left: 70px;
+	width: 50%;
+}
+
+
